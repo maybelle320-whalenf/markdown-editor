@@ -18,3 +18,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-30
 - Reorganised test fixtures
 - Tested build on clean environment
+
+## 2026-04-13
+- Updated dependencies to latest stable versions
+- Added CONTRIBUTING.md stub
